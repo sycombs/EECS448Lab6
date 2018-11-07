@@ -1,0 +1,4 @@
+1. removeBack does not remove anything
+2. removeFront does not remove anything
+3. isEmpty returns true for a nonempty list
+4. addBack does not add to the back
